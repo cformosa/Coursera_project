@@ -16,6 +16,7 @@ Finally, a group average column for subject_now and activity was made in final_a
 
 
 run_analysis.R is the R code for the project
+
 CodeBook.md is the description of what the variables mean at each given point
 
 files used:
