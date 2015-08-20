@@ -17,5 +17,18 @@ Finally, a group average column for subject_now and activity was made in final_a
 
 run_analysis.R is the R code for the project
 
+files used:
+- 'README.txt'
+
+- 'features.txt': List of all features.
+
+- 'train/X_train.txt': Training set.
+
+- 'train/y_train.txt': Training labels.
+
+- 'test/X_test.txt': Test set.
+
+- 'test/y_test.txt': Test labels.
+
 
 
