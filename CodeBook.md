@@ -30,8 +30,8 @@ fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
 
-Mean: Mean value
-Std: Standard deviation
+Mean: Mean value 
+Std: Standard deviation 
 mad(): Median absolute deviation 
 max(): Largest value in array
 min(): Smallest value in array
